@@ -1,5 +1,7 @@
+#!/usr/bin/python3
 
-dule
+"""
+Module
 export data in the JSON format
 """
 
